@@ -170,6 +170,7 @@ return [
          * Package Service Providers...
          */
         \Laravel\Passport\PassportServiceProvider::class,
+        //Artesaos\Defender\Providers\DefenderServiceProvider::class,
 
         /*
          * Application Service Providers...
